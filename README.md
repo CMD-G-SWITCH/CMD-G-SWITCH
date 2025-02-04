@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @CMD-G-SWITCH
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on any projects
+
+- Computer Engineering Student | 
+- Passionate about AI and Embedded Systems | 
+- Open to Collaboration
 - 📫 How to reach me geeswich809@gmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Nock nock.....!
